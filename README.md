@@ -1,10 +1,10 @@
-# 🏷️ Project: Coco Media
+# Coco Media
 
 **Coco Media** is a sleek, responsive web application designed to showcase multimedia content in a modern, intuitive interface. It provides users with a seamless experience when browsing, viewing, and interacting with videos, images, and other media assets.
 
 ---
 
-## ✨ Key Features
+##  Key Features
 
 - **Responsive Design** — Fully adaptive layout across devices (mobile, tablet, desktop)
 - **Media Showcase** — Elegant presentation of galleries, video players, and media collections
@@ -14,7 +14,7 @@
 
 ---
 
-## 🧰 Tech Stack & Tools Used
+##  Tech Stack & Tools Used
 
 - **React** / **Next.js** — for client-side rendering, routing, and server-side rendering
 - **clerk** — for authentication
@@ -24,9 +24,9 @@
 
 ---
 
-## ✅ Why This Project Matters
+##  Why This Project Matters
 
-Coco Media is more than just a media showcase — it demonstrates your ability to:
+Coco Media is a full-featured media showcase designed to highlight my skills in building scalable and user-friendly applications. This project demonstrates the ability to:
 
 - Architect a full-stack application from frontend to backend
 - Integrate multimedia features (video, images, galleries) in a performant way
